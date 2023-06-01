@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    color: rgb(165, 214, 214);
+    box-shadow: 5px 5px 0 0 rgb(150, 202, 202);
+    font-size: 50px;
+    border: 6px solid rgb(150, 202, 202);
+    border-radius: 3px;
+}
+a{
+    color:rgb(115, 115, 202);
+    font-size: 20px;
+    border: 
+}
+p{
+    font-size: 20px;
+}
+.link-header{
+    color:rgb(93, 93, 167);
+    font-size: 24px;
+}
+.link-nav{
+    padding: 20px;
+}
+header{
+    opacity: 0.5;
+}
+.link-header:hover{
+    color: rgb(63, 63, 148);
+    opacity: 1;
+    font-size: 30px;
+}
+.link-nav:hover{
+    opacity: 1;
+    font-size: 25px;
+    color: rgb(73, 73, 150)
+}
+footer{
+    opacity: 0.8;
+}
+footer:hover{
+    opacity: 1;
+}
+.img{
+    border: 4px dotted rgb(81, 159, 204);
+    padding-top: 15px;
+    padding-bottom: 15px;
+    width: 830px;
+    height: 550px;
+}
+.img:hover{
+    width: 880px;
+    height: 600px;
+}
